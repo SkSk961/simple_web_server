@@ -21,7 +21,7 @@ Serving the HTML pages.
 Testing the webserver.
 
 # PROGRAM:
-~~~
+```
 
 <!DOCTYPE html>
 <html>
@@ -86,10 +86,13 @@ Testing the webserver.
 	</table>
 </body>
 </html>
-~~~
+```
 # OUTPUT:
 ![Screenshot 2024-11-25 144428](https://github.com/user-attachments/assets/d27f7b64-9c8c-4837-afdc-6fb83657fe44)
 
+
+
+  
 ![Screenshot 2024-11-25 143228](https://github.com/user-attachments/assets/1d526c35-214a-4fdf-9c8a-330ec2db49c2)
 
 
